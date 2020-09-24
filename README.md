@@ -1,5 +1,6 @@
 # Bidding-TicTacToe
-An advanced form of TicTacToe game where the one who wins the bid gets a chance to make the next move.
+An advanced form of TicTacToe game where the one who wins the bid gets a chance to make the next move.<br>
+Heroku app link - https://bidding-ttt.herokuapp.com/
 
 ## Motivation
 Mostly, a TicTacToe game ends in a tie. So, in order to reduce the number of ties, every player has to bid before making a move and the player who wins the bid gets the chance to make the next move. In case of a tie, the player with more number of coins remaining wins the game.
